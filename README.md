@@ -1,1 +1,1 @@
-# sorteio_numerico
+# sorteio_numerico_portugol
