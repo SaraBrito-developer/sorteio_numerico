@@ -44,7 +44,6 @@ programa
 
 		para (inteiro i = 1; i <= sorteios; i++)
 		{
-			// A função sorteia() agora funciona por causa da biblioteca Util
 			valor_sorteado = Util.sorteia(valor_inicial, valor_final)
 			
 			escreva("Sorteio nº ", i, ": ", valor_sorteado, "\n")
